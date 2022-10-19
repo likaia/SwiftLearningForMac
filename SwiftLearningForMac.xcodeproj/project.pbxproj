@@ -14,6 +14,7 @@
 		A20A457E2900313100A23194 /* SwiftLearningForMacTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20A457D2900313100A23194 /* SwiftLearningForMacTests.swift */; };
 		A20A45882900313100A23194 /* SwiftLearningForMacUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20A45872900313100A23194 /* SwiftLearningForMacUITests.swift */; };
 		A20A458A2900313100A23194 /* SwiftLearningForMacUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20A45892900313100A23194 /* SwiftLearningForMacUITestsLaunchTests.swift */; };
+		A20A4597290049B000A23194 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A20A4596290049B000A23194 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		A20A45832900313100A23194 /* SwiftLearningForMacUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLearningForMacUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A20A45872900313100A23194 /* SwiftLearningForMacUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLearningForMacUITests.swift; sourceTree = "<group>"; };
 		A20A45892900313100A23194 /* SwiftLearningForMacUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLearningForMacUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A20A4596290049B000A23194 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		A20A455F2900312F00A23194 = {
 			isa = PBXGroup;
 			children = (
+				A20A4596290049B000A23194 /* README.md */,
 				A20A456A2900312F00A23194 /* SwiftLearningForMac */,
 				A20A457C2900313100A23194 /* SwiftLearningForMacTests */,
 				A20A45862900313100A23194 /* SwiftLearningForMacUITests */,
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A20A4597290049B000A23194 /* README.md in Resources */,
 				A20A45732900313000A23194 /* Preview Assets.xcassets in Resources */,
 				A20A45702900313000A23194 /* Assets.xcassets in Resources */,
 			);
